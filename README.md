@@ -25,7 +25,7 @@ Unduh Script Dibawah Ini
 
 👇👇
 
-[![script BluForce-FB](https://img.shields.io/badge/BluForceFB-%2B-yellow.svg?style=flat)]
+[![script BluForce-FB](https://img.shields.io/badge/BluForceFB-%2B-yellow.svg?style=flat)](https://sfile.mobi/8XhE9TCSt2I)
 
 <a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
@@ -40,8 +40,6 @@ Brute Force Attack on Facebook Accounts
 Note: EMAIL = ID = PHONE 
 ----------------------------
 --------------------------------------------------------------
-
-<img src="https://github.com/AngelSecurityTeam/BluForce-FB/blob/master/foto_blueforce-fb.png">
 
 </p>
 <div height='45' align="center">
